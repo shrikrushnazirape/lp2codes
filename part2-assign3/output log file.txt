@@ -1,0 +1,4 @@
+MethodOverloading m = new MethodOverloading();
+m.areaofCircle(3.2);
+m.areaofRectangle(3.2,2);
+m.areaofTriangle(5,6);
